@@ -15,7 +15,7 @@ A simple and fun dice game built with **HTML, CSS, and JavaScript**. Roll the di
 ## Live Demo
 
 Check out the live version on GitHub Pages:  
-[Your GitHub Pages Link Here]()  
+ https://devipriyaramesh97.github.io/Dice-game/
 
 https://github.com/DevipriyaRamesh97
 
